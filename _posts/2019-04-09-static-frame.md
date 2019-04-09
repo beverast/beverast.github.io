@@ -4,7 +4,7 @@ title: What's StaticFrame?
 subtitle: Introducing a Pandas alternative with a pragmatic twist
 gh-repo: beverast/beverast.github.io
 gh-badge: [star, fork, follow]
-bigimg: /img/sf-line.png
+bigimg: /img/sf-icon.png
 tags: [open source, library, python, data science]
 comments: true
 ---
