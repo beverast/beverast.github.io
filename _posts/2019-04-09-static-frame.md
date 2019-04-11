@@ -143,9 +143,9 @@ frame['project_name'].isna().any()
 
 
 
-Frame objects expose a base __getitem__ interface: StaticFrame uses 1 parameter for .loc[] and .iloc[] to select by ROW.
+Frame objects expose a base `__getitem__` interface: StaticFrame uses 1 parameter for `.loc[]` and `.iloc[]` to select by ROW.
 
-Use 2 parameters for .loc[] and .iloc[] to select by ROW and COLUMN.
+Use 2 parameters for `.loc[]` and `.iloc[]` to select by ROW and COLUMN.
 
 
 ```python
