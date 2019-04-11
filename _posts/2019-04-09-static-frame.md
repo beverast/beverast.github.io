@@ -13,11 +13,11 @@ StaticFrame is neither a clone of Pandas nor a replacement. StaticFrame is a lib
 
 ### Resources
 
-StaticFrame on Github: https://github.com/InvestmentSystems/static-frame
+[StaticFrame on Github](https://github.com/InvestmentSystems/static-frame)
 
-StaticFrame docs: http://static-frame.readthedocs.io/
+[StaticFrame docs](http://static-frame.readthedocs.io/)
 
-Christopher Ariza on Talk Python to Me: https://talkpython.fm/episodes/show/204/staticframe-like-pandas-but-safer
+[Christopher Ariza on Talk Python to Me](https://talkpython.fm/episodes/show/204/staticframe-like-pandas-but-safer)
 
 Here's a simple code-oriented Jupyter Notebook highlighting the high level features and behaviors of StaticFrame.
 
