@@ -64,6 +64,7 @@ There’s so much more to the workings of electrical grids and Texas’ specific
 
 #### Further Reading:
 
+[https://www.jstor.org/stable/40923434?seq=1#page_scan_tab_contents](https://www.jstor.org/stable/40923434?seq=1#page_scan_tab_contents)
 
 [http://www.ercot.com/about/profile/history/](http://www.ercot.com/about/profile/history/)
 
@@ -73,4 +74,4 @@ There’s so much more to the workings of electrical grids and Texas’ specific
 
 [https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/](https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/)
 
-[https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/](https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/)
+
