@@ -49,7 +49,7 @@ Bush called for 5,880 megawatts of renewable energy capacity by 2015 and 10,000 
 * The demand set for 2015 was met in 2005
 * The demand for 2025 was met in 2009
 
-Texas continues this streak today, and ERCOT has worked with these deregulated entities to provide even more wind energy to a wider area of the state, through initiatives such as the Competitive Renewable Energy Zones Process. Read more about it here: https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf
+Texas continues this streak today, and ERCOT has worked with these deregulated entities to provide even more wind energy to a wider area of the state, through initiatives such as the Competitive Renewable Energy Zones Process. Read more about it here: (https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf)
 
 ![Average Retail Price of Electricity](/img/retail_price_combined.png)
 
@@ -65,12 +65,12 @@ There’s so much more to the workings of electrical grids and Texas’ specific
 ### Further Reading:
 
 
-http://www.ercot.com/about/profile/history/
+(http://www.ercot.com/about/profile/history/)
 
-https://tcaptx.com/downloads/THE-STORY-OF-ERCOT.pdf
+(https://tcaptx.com/downloads/THE-STORY-OF-ERCOT.pdf)
 
-https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/
+(https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/)
 
-https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/
+(https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/)
 
-https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/
+(https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/)
