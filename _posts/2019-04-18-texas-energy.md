@@ -4,7 +4,7 @@ title: Texas' Energy- A National Curiosity
 subtitle: The Lone Star state stands alone compared to the rest of the US; Texas’ energy market is deregulated allowing for high levels of competition between providers and greater innovation.
 gh-repo:
 gh-badge: [star, fork, follow]
-bigimg: /img/all_combined_transparent.png
+bigimg:
 tags: [energy, markets, analysis, open source]
 comments: true
 ---
@@ -25,4 +25,20 @@ Due to the state-level nature of the Texas Interconnect System they were adamant
 ERCOT formed in 1970 after a major blackout in the northeast in November 1965, which happened to be the worst blackout in national history. ERCOT was tasked with grid reliability in accordance with national standards, and to reiterate; ERCOT is not under the jurisdiction of the Federal Energy Regulatory Commission. **This “single-state jurisdiction” has allowed Texas to more rapidly expand and improve its infrastructure compared to the rest of the country**. This fact will continue to pop up as I explain Texas’ energy statistics and growth. [2](https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/)
 
 ## Visualization and Analysis
+
+![Net Coal Consumption](/img/coal_consumption_comined.png)
+
+In October of 2018 Texas consumed 6.476 million tons of coal for electrical energy generation. In comparison, Indiana came in second at 3.222 million tons. While population size is certainly a factor in the amount consumed, the amount of coal consumed is indicative of the resources available to each state. In terms of coal consumption, these are the top five states:
+1. Texas: 6.476 million tons
+2. Indiana: 3.222 million tons
+3. Missouri: 2.626 million tons
+4. Illinois: 2.959 million tons
+5. Kentucky: 2.270 million tons
+
+This choropleth visualization shows that Texas really puts it’s natural resources to use, and this helps ERCOT be able to put more focus on investing and growing their renewable sources and other aspects of their energy infrastructure, such as adding 2,300 miles of new power transmission lines. [3](https://poweringtexas.com/#revenue-generator)
+
+![Fossil Fuel Stocks](/img/fossil_fuel_stocks_combined.png)
+
+In this visualization fossil fuels refer to coal, natural gas, petroleum gas, and Texas is abundant in all of these fuels. These reserves aid Texas in being able to offer energy in many various forms, allowing the utility companies to be able to rely on a combination of sources whilst expanding their infrastructure and enabling the growth of renewables. 
+
 
