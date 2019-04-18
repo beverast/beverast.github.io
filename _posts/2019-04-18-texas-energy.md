@@ -9,7 +9,7 @@ tags: [energy, markets, analysis, open source]
 comments: true
 ---
 
-![A National Curiosity](/img/all_combined_transparent.png)
+![A National Curiosity](/img/all_combined_transparent2.png)
 
 ## Historical Background
 There are three distinct, separate power grids, or “interconnections”, in the US:
