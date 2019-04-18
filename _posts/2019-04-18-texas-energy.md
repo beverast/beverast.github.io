@@ -26,7 +26,7 @@ ERCOT formed in 1970 after a major blackout in the northeast in November 1965, w
 
 ## Visualization and Analysis
 
-![Net Coal Consumption](/img/coal_consumption_comined.png)
+![Net Coal Consumption](/img/coal_consumption_combined.png)
 
 In October of 2018 Texas consumed 6.476 million tons of coal for electrical energy generation. In comparison, Indiana came in second at 3.222 million tons. While population size is certainly a factor in the amount consumed, the amount of coal consumed is indicative of the resources available to each state. In terms of coal consumption, these are the top five states:
 1. Texas: 6.476 million tons
