@@ -49,7 +49,7 @@ Bush called for 5,880 megawatts of renewable energy capacity by 2015 and 10,000 
 * The demand set for 2015 was met in 2005
 * The demand for 2025 was met in 2009
 
-Texas continues this streak today, and ERCOT has worked with these deregulated entities to provide even more wind energy to a wider area of the state, through initiatives such as the Competitive Renewable Energy Zones Process. Read more about it here: (https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf)
+Texas continues this streak today, and ERCOT has worked with these deregulated entities to provide even more wind energy to a wider area of the state, through initiatives such as the Competitive Renewable Energy Zones Process. Read more about it here: [https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf](https://www.energy.gov/sites/prod/files/2014/08/f18/c_lasher_qer_santafe_presentation.pdf)
 
 ![Average Retail Price of Electricity](/img/retail_price_combined.png)
 
@@ -62,15 +62,15 @@ From this data, Texas comes in 12th place in offering the lowest retail price of
 
 There’s so much more to the workings of electrical grids and Texas’ specifically that I’d love to cover, but I’ll have to save them for later posts. An interesting tale that I didn’t mention in the historical section is about an event called ‘The Midnight Connection’ where Texas sent power across state lines to Oklahoma for an hour which led to Texas nearly being placed under federal regulation. Alas, from the data I’ve examined, Texas is a strong leader in electrical power and the deregulated energy markets. Although, Texas is not the only state with a deregulated energy market; there are currently 15 other states that share this design. In an age where renewable energy is becoming more and more of a central focus for states, businesses, and citizens, Texas again shows that competitive markets and cooperative initiatives can have an amazing impact, bettering the situation for every party.
 
-### Further Reading:
+#### Further Reading:
 
 
-(http://www.ercot.com/about/profile/history/)
+[http://www.ercot.com/about/profile/history/](http://www.ercot.com/about/profile/history/)
 
-(https://tcaptx.com/downloads/THE-STORY-OF-ERCOT.pdf)
+[https://tcaptx.com/downloads/THE-STORY-OF-ERCOT.pdf](https://tcaptx.com/downloads/THE-STORY-OF-ERCOT.pdf)
 
-(https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/)
+[https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/](https://www.texastribune.org/2011/02/08/texplainer-why-does-texas-have-its-own-power-grid/)
 
-(https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/)
+[https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/](https://www.texastribune.org/2013/10/29/texplainer-how-texas-grid-managed/)
 
-(https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/)
+[https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/](https://austincountynewsonline.com/texplainer-why-does-texas-have-its-own-power-grid/)
