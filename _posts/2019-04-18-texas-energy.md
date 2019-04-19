@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Texas' Energy- A National Curiosity
-subtitle: The Lone Star state stands alone compared to the rest of the US; Texas’ energy market is deregulated allowing for high levels of competition between providers and greater innovation.
-gh-repo:
+subtitle: Texas stands alone compared to the rest of the US; it's energy market is deregulated allowing for high levels of competition between providers and greater innovation.
+gh-repo: https://github.com/beverast/Notebooks
 gh-badge: [star, fork, follow]
 bigimg:
 tags: [energy, markets, analysis, open source]
@@ -10,6 +10,11 @@ comments: true
 ---
 
 ![A National Curiosity](/img/all_combined_transparent3.png)
+Jupyter Notebook: [https://github.com/beverast/Notebooks/blob/master/EIA_refactor.ipynb](https://github.com/beverast/Notebooks/blob/master/EIA_refactor.ipynb)
+
+Data source: [https://www.eia.gov/opendata/](https://www.eia.gov/opendata/)
+
+Note: Unrepresented states in the following visualizations have no energy data available from the EIA.
 
 ## Historical Background
 There are three distinct, separate power grids, or “interconnections”, in the US:
