@@ -2,7 +2,7 @@
 layout: post
 title: Texas' Energy- A National Curiosity
 subtitle: Texas stands alone compared to the rest of the US; it's energy market is deregulated allowing for high levels of competition between providers and greater innovation.
-gh-repo: https://github.com/beverast/Notebooks
+gh-repo: beverast/Notebooks
 gh-badge: [star, fork, follow]
 bigimg:
 tags: [energy, markets, analysis, open source]
