@@ -4,7 +4,7 @@ title: What's the SKI Combinator Calculus?
 subtitle: A Turing-complete, untyped computational system comprised of three combinators that predates the lambda calculus.
 gh-repo: beverast/beverast.github.io
 gh-badge: [star, fork, follow]
-bigimg: /img/sf-icon.png
+bigimg:
 tags: [lambda calculus, formal methods, functional programming, logic]
 comments: true
 ---
