@@ -24,7 +24,7 @@ First, we'll cover the definitions of combinators S, K, I then walk through some
 
 The following definitions and graphics are quoted from [The SKI Combinator Calculus](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/) by Mike O'Donnell. 
 
-1. The entire alphabet is the set: \bein{align} \sum {S,K,I,(,)} \end{align}
+1. The entire alphabet is the set: {S,K,I,(,)}
 2. S is the "substitution" combinator: **S** f g h = f h (g h)
 3. K is the "constant" combinator: **K** f g = f
 4. I is the "identity" combinator: **I** f = f
@@ -33,3 +33,18 @@ Remember: everything is a function, and the calculus is completely untyped. Here
 
 ![Dervations](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/img21.gif)
 
+A **term** is a finite binary tree where each leaf has exactly one of the symbols S, K, or I. Terms can be written as linear sequences so here I'll demonstrate the derivation of such a sequence:
+
+1. **S** I K S
+2. **I** S (K S)
+3. **S** (K S), Fully Derived
+
+1. **S** K S K
+2. **K** K (S K)
+3. K, Fully Derived
+
+The syntax of a linear sequence can either be in the form of minimal parentheses or full parentheses:
+
+* ISK = **((**IS)K**)**
+* I(SK) = **(**I(SK)**)**
+* S(KI)(SK)I = **(**S**(**(KI)(SK)**)**I**)**
