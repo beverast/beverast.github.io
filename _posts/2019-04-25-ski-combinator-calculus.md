@@ -21,3 +21,15 @@ The operations within the SKI calculus can be encoded into a binary tree represe
 ## SKI Usage
 
 First, we'll cover the definitions of combinators S, K, I then walk through some examples of [abstraction elimination](https://en.wikipedia.org/wiki/Combinatory_logic#Completeness_of_the_S-K_basis), and finally a few "incantations" including encoding True and False boolean logic.
+
+The following definitions and graphics are quoted from [The SKI Combinator Calculus](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/) by Mike O'Donnell. 
+
+1. The entire alphabet is the set: \sum {S,K,I,(,)}
+2. S is the "substitution" combinator: **S** f g h = f h (g h)
+3. K is the "constant" combinator: **K** f g = f
+4. I is the "identity" combinator: **I** f = f
+
+Remember: everything is a function, and the calculus is completely untyped. Here's a visual explanation of the three rules of derivation:
+
+![Dervations](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/img21.gif)
+
