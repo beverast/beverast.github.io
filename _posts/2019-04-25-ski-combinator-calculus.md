@@ -45,6 +45,15 @@ A **term** is a finite binary tree where each leaf has exactly one of the symbol
 
 The syntax of a linear sequence can either be in the form of minimal parentheses or full parentheses:
 
-- ISK = **((** IS)K **)**
-- I(SK) = **(** I(SK) **)**
-- S(KI)(SK)I = **(** S **(** (KI)(SK)**)** I **)**
+- ISK = ((IS)K)
+- I(SK) = (I(SK))
+- S(KI)(SK)I = (S((KI)(SK))I)
+
+Here's a table showing all representations:
+![Parens and Trees](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/img20.gif)
+
+Now that an intuition has been developed for the combinatorial operations and form, I'll cover **schematic derivations**. These represent an infinite number of possibilities by sorting manipulated objects and the inert objects. This example is interesting because it shows that, in fact, combinator I is only present as a convenience- it is [syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar). It can be derived from SKK:
+
+![I from SKK](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/img32.gif)
+
+
