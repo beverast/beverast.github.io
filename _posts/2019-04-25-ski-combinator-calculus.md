@@ -45,6 +45,6 @@ A **term** is a finite binary tree where each leaf has exactly one of the symbol
 
 The syntax of a linear sequence can either be in the form of minimal parentheses or full parentheses:
 
-* ISK = **((**IS)K**)**
-* I(SK) = **(**I(SK)**)**
-* S(KI)(SK)I = **(**S**(**(KI)(SK)**)**I**)**
+- ISK = **((** IS)K **)**
+- I(SK) = **(** I(SK) **)**
+- S(KI)(SK)I = **(** S **(** (KI)(SK)**)** I **)**
