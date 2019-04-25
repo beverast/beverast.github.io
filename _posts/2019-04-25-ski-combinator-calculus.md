@@ -24,7 +24,7 @@ First, we'll cover the definitions of combinators S, K, I then walk through some
 
 The following definitions and graphics are quoted from [The SKI Combinator Calculus](https://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/) by Mike O'Donnell. 
 
-1. The entire alphabet is the set: \sum {S,K,I,(,)}
+1. The entire alphabet is the set: \bein{align} \sum {S,K,I,(,)} \end{align}
 2. S is the "substitution" combinator: **S** f g h = f h (g h)
 3. K is the "constant" combinator: **K** f g = f
 4. I is the "identity" combinator: **I** f = f
