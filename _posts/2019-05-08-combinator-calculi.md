@@ -9,8 +9,6 @@ tags: [functional programming, combinators, logic, python, lambda calculus, open
 comments: true
 ---
 
-# **Combinator Calculi: The DNA of Computation**
-
 ## **Environment Considerations**
 ------------------
 
