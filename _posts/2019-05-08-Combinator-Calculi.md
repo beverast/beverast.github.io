@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Combinator Calculi: The DNA of Computation
-subtitle: 
+title: Combinator Calculi
+subtitle: The DNA of Computation
 gh-repo: beverast//beverast.github.io
 gh-badge: [star, fork, follow]
 bigimg:
@@ -345,4 +345,4 @@ I hope that I've managed to cultivate a sense of curiosity about these fundament
 
 1. [Maximal Laziness](https://pdf.sciencedirectassets.com/272990/1-s2.0-S1571066109X00381/1-s2.0-S157106610900396X/main.pdf?x-amz-security-token=AgoJb3JpZ2luX2VjEFUaCXVzLWVhc3QtMSJHMEUCIQCa1vdqWyIf2e7mOjP7LWlRwIfky8TE0wc7jubCIwHlrwIgehijkGjIpJrWNSjyuScnPxS80Gjur2LAgfiLP5zE71Uq2gMIThACGgwwNTkwMDM1NDY4NjUiDBlpLClQeSy9mMdI2iq3A0wsrL4AedtPuyq5O6ZUMTggEj9m9lqhPocw8tI4SqwufNDMtWpkLp8lP3yM8RUnAOE3H1s6kmEkmXAH%2BR3WDyF2C0b6gNWUNVbyQm5ZxAPvJGZtqMeeLlT8hW4aVSLblexAPQWGox47IPUxCPiQ2Acemp82jcivKEJIl8FhrZrZLT2uOux7U%2FLvMJ%2FDfHflAAORcyo4KuGVm1Unqqmu0BKw%2Bn2IuUgQmREjQIWnur63%2FKiYQy4KfBpX8jKXTBuz8qhQqSxzzytf6E5Xkm2GhuroLdU%2BFpP2w6AdirXx%2BoglbceE1lSERnyu02vnfvE7GCa2vxxJScRIZZcRd8cNpXCODuH12N9c9j636pcK0YuKcL%2BOTC9tEUInXJin2ecSh%2FyBUlVRxslAz1QGogJ7bOJCEQW40LXVZPsnAWSojKaam9YzQcLgG0NMFa5jUt4jMmmfeAaSc15wiuyr6raqjbB7Uy691j%2F8RSj2Xe4FscEsOxzLmHWDvuHn5O%2Byu1o1ZntdZVMuXaxkihtsuUDsHcuR3gvWlScRLhecnnpL5VeV1ynviY6B62mAah%2FMEjm84QXWQiXvwdIw0fjM5gU6tAEGMCfeV9Z4iofFatuGB9G7QqHeHiGFcv%2FmdXTcKRTPFVjdur4sHlIdnnHY5fK8OPNkPOJnDXbtepTXEJBe9%2BH8C%2F9a1nFNRFcwU7108RmiBTwREQYWKM51ASPRzQll2H1Qz55fQbtgd7Ca0N7UEheAClPGGdedsBe3%2Frh8efnqTZyeipDmzWcb3UkRp2wczQvvfObh%2FvKs75KPbGQa%2BAwBgMOeXfsiucJ%2BrtsWxV61up3PP9g%3D&AWSAccessKeyId=ASIAQ3PHCVTY2T7NYQDO&Expires=1557350076&Signature=dlXKzqMn42aR7du7rUq02g8WL0E%3D&hash=1cf9acb597110da86b66be2e6e5cc921c240764d9afdcd494e1812db69eb4944&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S157106610900396X&tid=spdf-c44be4b1-c7d3-4215-b440-dbf3c8dbc618&sid=d4b0c53994aa5348833a10e92207a58ac262gxrqa&type=client) PDF
 2. [Cache Behavior of Combinator Graph Reduction](http://users.ece.cmu.edu/~koopman/tigre/toplas_92.pdf) PDF
-3. [GRIP - a high-perfbrmance architecture for parallel graph reduction](https://link.springer.com/content/pdf/10.1007/3-540-18317-5_7.pdf)
+3. [GRIP - a high-performance architecture for parallel graph reduction](https://link.springer.com/content/pdf/10.1007/3-540-18317-5_7.pdf)
