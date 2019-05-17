@@ -6,6 +6,7 @@ gh-repo: beverast/beverast.github.io
 gh-badge: [star, fork, follow]
 bigimg: /img/sf-icon.png
 tags: [open source, library, python, data science]
+keywords: staticframe, python, data science, pandas, functional python, numpy, immutable pandas, dataframe, immutability, functional programming, FP, open source, Talk Python to Me, staticframe tutorial, data, data analytics, beverast, jekyll, jupyter, jupyter notebook
 comments: true
 ---
 ### Key Features
