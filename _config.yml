@@ -76,7 +76,7 @@ social-network-links:
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+#  linkedin: joseph-wagner-67a710b2
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -251,6 +251,8 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
+theme: jekyll-theme-midnight
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
