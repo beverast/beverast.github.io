@@ -6,6 +6,7 @@ gh-repo: beverast/Notebooks
 gh-badge: [star, fork, follow]
 bigimg:
 tags: [energy, markets, analysis, open source]
+keywords: energy, electrical grid, markets, energy markets, renewable energy, ERCOT, Texas, open data, EIA, data storytelling, interconnection, energy analysis, data science, python, pandas, numpy, jupyter, seaborn, matplotlib, choropleth, geodata, jupyter notebook, open science, data analytics, Lambda School, DS3, beverast, jekyll
 comments: true
 ---
 
