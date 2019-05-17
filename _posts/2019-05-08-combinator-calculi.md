@@ -6,6 +6,7 @@ gh-repo: beverast//beverast.github.io
 gh-badge: [star, fork, follow]
 bigimg:
 tags: [functional programming, combinators, logic, python, lambda calculus, open source]
+keywords: functional programming, FP, python, functional python, programming, python standard library, combinators, combinatory logic, lambda calculus, logic, Haskell Curry, lambda, python built-ins, python 3.7, lambda expressions, python lambda, Lambda School, beverast, jekyll, jupyter notebook, 
 comments: true
 ---
 
