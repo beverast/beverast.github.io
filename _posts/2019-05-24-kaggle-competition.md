@@ -931,7 +931,7 @@ shap.summary_plot(shap_values, X_test);
 ```
 
 
-![png](output_39_0.png)
+![png](/img/output_39_0.png)
 
 
 Here's the actual list of feature importances including the featuretools features.
