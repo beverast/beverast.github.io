@@ -1033,7 +1033,7 @@ bars.properties(height=400)
 
 
 
-![png](output_46_0.png)
+![png](/img/output_46_0.png)
 
 
 
@@ -1054,7 +1054,7 @@ fig, axes = pdp.pdp_plot(
 ```
 
 
-![png](output_48_0.png)
+![png](/img/output_48_0.png)
 
 
 **Quantity Type Bar Chart**
@@ -1073,7 +1073,7 @@ alt.Chart(merged[:4999]).mark_bar().encode(
 
 
 
-![png](output_50_0.png)
+![png](/img/output_50_0.png)
 
 
 
@@ -1097,7 +1097,7 @@ pdp_interact_plot(interaction, plot_type='grid', feature_names=features);
 ```
 
 
-![png](output_52_0.png)
+![png](/img/output_52_0.png)
 
 
 **Latitude/Longitude Plot on Cartesian Grid**
@@ -1118,6 +1118,6 @@ alt.Chart(merged.loc[merged['latitude']!=0][:2000]).mark_circle().encode(
 
 
 
-![png](output_54_0.png)
+![png](/img/output_54_0.png)
 
 
