@@ -7,7 +7,7 @@ My name is Joseph Wagner. Here are some quick facts about me:
 
 - I'm a fellow of Lambda School studying data science.
 - I'm always looking to help with FOSS projects. Can I help? Let's get in touch!
-- I'm most interested in big data & big data infrastructure.  
+- I'm most interested in big data & data engineering.  
 
 My interests:
 
